@@ -8,7 +8,7 @@ Practice problems for mastering **1D Arrays** in C++.
 
 | # | Problem | Difficulty | Core Idea |
 |---|---------|------------|------------|
-| 1 | [Find Most Frequent Number](./Problems.md#1-find-most-frequent-number) | Medium | Frequency counting |
+| 1 | [Find Most Frequent Number](./Problems.md#-1-find-most-frequent-number) | Medium | Frequency counting 
 | 2 | [Smallest Pair](./Problems.md#-2-smallest-pair) | Easy | Minimum pair evaluation |
 | 3 | Palindrome Array | Easy | Two pointers |
 | 4 | Find Minimum 3 Values | Medium | Tracking minimum values |
