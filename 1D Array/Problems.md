@@ -15,7 +15,7 @@ Practice problems for mastering **1D Arrays** in C++.
 
 ---
 
-# 🔹 [1. Find Most Frequent Number](./find_most_frequent_number.cpp)
+# 🔹 [1. Find Most Frequent Number](./find_most_frequent.cpp)
 
 ## 🎯 Goal
 
