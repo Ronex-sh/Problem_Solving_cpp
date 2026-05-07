@@ -1,5 +1,6 @@
+## 1- Find Most Frequent Number
 ````md
-# Problem #3: Find Most Frequent Number
+## Problem : Find Most Frequent Number
 
 ## Description
 Read an integer `N`, then read `N` integers (`N <= 200`).
@@ -31,7 +32,4 @@ Find the value that is repeated the maximum number of times.
 
 ```text
 -1 repeated 3 times
-```
-
-```
 ```
