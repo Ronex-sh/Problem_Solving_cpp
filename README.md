@@ -1,3 +1,3 @@
 # Problem-Solving-C-
 ##find most frequent number 
-![](FindMostFrequentNumber.png)
+![](images/FindMostFrequentNumber.png)
